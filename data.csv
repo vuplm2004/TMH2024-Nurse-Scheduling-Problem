@@ -1,39 +1,39 @@
 ID,Name,Department,Role,Seniority
-01,Hường,Internal Medicine,Main Doctor,3
-02,Thư,Internal Medicine,Main Doctor,7
-03,Sơn,Internal Medicine,Main Doctor,8
-04,Hưng,Internal Medicine,Assistant Doctor,4
-05,Thắng,Internal Medicine,Assistant Doctor,9
-06,Dũng,Internal Medicine,Nurse ,6
-07,Tơ,Internal Medicine,Nurse ,7
-08,Tiến,Internal Medicine,Nurse ,7
-09,Dương,Internal Medicine,Nurse ,10
-10,Huệ,Internal Medicine,Nurse ,8
-11,Tuyến,Internal Medicine,Nurse ,16
-12,Huyền,Internal Medicine,Nurse ,20
-13,An,Internal Medicine,Nurse ,2
-14,Linh,Internal Medicine,Nurse ,3
-15,Thương,Surgery ,Main Doctor,2
-16,Tuấn,Surgery ,Main Doctor,4
-17,Thanh Hà,Surgery ,Main Doctor,6
-18,Ngân Hà,Surgery ,Main Doctor,10
-19,Linh,Surgery ,Main Doctor,13
-20,Trang,Surgery ,Main Doctor,15
-21,Thuận,Surgery ,Assistant Doctor,8
-22,Giang,Surgery ,Assistant Doctor,10
-23,Gấm,Surgery ,Assistant Doctor,15
-24,Phượng,Surgery ,Assistant Doctor,1
-25,Công,Surgery ,Nurse ,5
-26,Anh,Surgery ,Nurse ,4
-27,Hoài,Surgery ,Nurse ,9
-28,Huệ,Surgery ,Nurse ,12
-29,Thông,Surgery ,Nurse ,12
-30,Thu ,Surgery ,Nurse ,15
-31,Yên,Surgery ,Nurse ,16
-32,Văn Đức,Surgery ,Nurse ,19
-33,Nam ,Surgery ,Nurse ,18
-34,Tú,Surgery ,Nurse ,22
-35,Chí Đức,Surgery ,Nurse ,1
+1,Hường,Internal Medicine,Main Doctor,3
+2,Thư,Internal Medicine,Main Doctor,7
+3,Sơn,Internal Medicine,Main Doctor,8
+4,Hưng,Internal Medicine,Assistant Doctor,4
+5,Thắng,Internal Medicine,Assistant Doctor,9
+6,Dũng,Internal Medicine,Nurse,6
+7,Tơ,Internal Medicine,Nurse,7
+8,Tiến,Internal Medicine,Nurse,7
+9,Dương,Internal Medicine,Nurse,10
+10,Huệ,Internal Medicine,Nurse,8
+11,Tuyến,Internal Medicine,Nurse,16
+12,Huyền,Internal Medicine,Nurse,20
+13,An,Internal Medicine,Nurse,2
+14,Linh,Internal Medicine,Nurse,3
+15,Thương,Surgery,Main Doctor,2
+16,Tuấn,Surgery,Main Doctor,4
+17,Thanh Hà,Surgery,Main Doctor,6
+18,Ngân Hà,Surgery,Main Doctor,10
+19,Linh,Surgery,Main Doctor,13
+20,Trang,Surgery,Main Doctor,15
+21,Thuận,Surgery,Assistant Doctor,8
+22,Giang,Surgery,Assistant Doctor,10
+23,Gấm,Surgery,Assistant Doctor,15
+24,Phượng,Surgery,Assistant Doctor,1
+25,Công,Surgery,Nurse,5
+26,Anh,Surgery,Nurse,4
+27,Hoài,Surgery,Nurse,9
+28,Huệ,Surgery,Nurse,12
+29,Thông,Surgery,Nurse,12
+30,Thu,Surgery,Nurse,15
+31,Yên,Surgery,Nurse,16
+32,Văn Đức,Surgery,Nurse,19
+33,Nam,Surgery,Nurse,18
+34,Tú,Surgery,Nurse,22
+35,Chí Đức,Surgery,Nurse,1
 36,Quân,Emergency,Main Doctor,1
 37,Long,Emergency,Main Doctor,5
 38,Bắc,Emergency,Main Doctor,9
@@ -44,19 +44,19 @@ ID,Name,Department,Role,Seniority
 43,Dũng,Emergency,Assistant Doctor,6
 44,Vân Anh,Emergency,Assistant Doctor,11
 45,Út,Emergency,Assistant Doctor,13
-46,Minh,Emergency,Nurse ,4
-47,Dung,Emergency,Nurse ,5
-48,Lương,Emergency,Nurse ,8
-49,Oanh,Emergency,Nurse ,11
-50,Len,Emergency,Nurse ,9
-51,Quỳnh,Emergency,Nurse ,13
-52,Ngọc,Emergency,Nurse ,14
-53,Khánh Linh,Emergency,Nurse ,13
-54,Sang,Emergency,Nurse ,17
-55,Long,Emergency,Nurse ,18
-56,Phi,Emergency,Nurse ,17
-57,Thảo,Emergency,Nurse ,21
-58,Chung,Emergency,Nurse ,1
+46,Minh,Emergency,Nurse,4
+47,Dung,Emergency,Nurse,5
+48,Lương,Emergency,Nurse,8
+49,Oanh,Emergency,Nurse,11
+50,Len,Emergency,Nurse,9
+51,Quỳnh,Emergency,Nurse,13
+52,Ngọc,Emergency,Nurse,14
+53,Khánh Linh,Emergency,Nurse,13
+54,Sang,Emergency,Nurse,17
+55,Long,Emergency,Nurse,18
+56,Phi,Emergency,Nurse,17
+57,Thảo,Emergency,Nurse,21
+58,Chung,Emergency,Nurse,1
 59,Điệp,Clinical,Main Doctor,12
 60,Giang,Clinical,Main Doctor,14
 61,Bá Tuấn,Clinical,Main Doctor,16
@@ -68,14 +68,14 @@ ID,Name,Department,Role,Seniority
 67,Tâm,Clinical,Assistant Doctor,14
 68,Minh Phương,Clinical,Assistant Doctor,16
 69,Xuân,Clinical,Assistant Doctor,17
-70,Hương,Clinical,Nurse ,2
-71,Chi,Clinical,Nurse ,3
-72,Kim Anh,Clinical,Nurse ,6
-73,Ngân ,Clinical,Nurse ,10
-74,Đông ,Clinical,Nurse ,11
-75,Thu,Clinical,Nurse ,14
-76,Hưng,Clinical,Nurse ,15
-77,Vượng,Clinical,Nurse ,19
-78,Thu Hằng,Clinical,Nurse ,20
-79,Huyền,Clinical,Nurse ,21
-80,Thành,Clinical,Nurse ,22
+70,Hương,Clinical,Nurse,2
+71,Chi,Clinical,Nurse,3
+72,Kim Anh,Clinical,Nurse,6
+73,Ngân,Clinical,Nurse,10
+74,Đông,Clinical,Nurse,11
+75,Thu,Clinical,Nurse,14
+76,Hưng,Clinical,Nurse,15
+77,Vượng,Clinical,Nurse,19
+78,Thu Hằng,Clinical,Nurse,20
+79,Huyền,Clinical,Nurse,21
+80,Thành,Clinical,Nurse,22

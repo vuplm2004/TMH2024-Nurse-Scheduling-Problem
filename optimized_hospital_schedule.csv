@@ -1,0 +1,489 @@
+Day,Shift,Employee_ID,Name,Department,Role
+2,night,1,Hường,Internal Medicine,Main Doctor
+7,night,1,Hường,Internal Medicine,Main Doctor
+30,day,1,Hường,Internal Medicine,Main Doctor
+39,day,1,Hường,Internal Medicine,Main Doctor
+51,night,1,Hường,Internal Medicine,Main Doctor
+56,night,1,Hường,Internal Medicine,Main Doctor
+3,day,2,Thư,Internal Medicine,Main Doctor
+4,day,2,Thư,Internal Medicine,Main Doctor
+13,day,2,Thư,Internal Medicine,Main Doctor
+28,day,2,Thư,Internal Medicine,Main Doctor
+35,day,2,Thư,Internal Medicine,Main Doctor
+50,day,2,Thư,Internal Medicine,Main Doctor
+54,day,2,Thư,Internal Medicine,Main Doctor
+58,night,2,Thư,Internal Medicine,Main Doctor
+2,day,3,Sơn,Internal Medicine,Main Doctor
+13,night,3,Sơn,Internal Medicine,Main Doctor
+25,night,3,Sơn,Internal Medicine,Main Doctor
+27,day,3,Sơn,Internal Medicine,Main Doctor
+32,day,3,Sơn,Internal Medicine,Main Doctor
+40,night,3,Sơn,Internal Medicine,Main Doctor
+50,night,3,Sơn,Internal Medicine,Main Doctor
+59,day,3,Sơn,Internal Medicine,Main Doctor
+10,night,4,Hưng,Internal Medicine,Assistant Doctor
+15,night,4,Hưng,Internal Medicine,Assistant Doctor
+19,night,4,Hưng,Internal Medicine,Assistant Doctor
+22,day,4,Hưng,Internal Medicine,Assistant Doctor
+26,night,4,Hưng,Internal Medicine,Assistant Doctor
+33,day,4,Hưng,Internal Medicine,Assistant Doctor
+38,day,4,Hưng,Internal Medicine,Assistant Doctor
+61,day,4,Hưng,Internal Medicine,Assistant Doctor
+10,day,5,Thắng,Internal Medicine,Assistant Doctor
+11,day,5,Thắng,Internal Medicine,Assistant Doctor
+15,day,5,Thắng,Internal Medicine,Assistant Doctor
+17,night,5,Thắng,Internal Medicine,Assistant Doctor
+20,night,5,Thắng,Internal Medicine,Assistant Doctor
+39,night,5,Thắng,Internal Medicine,Assistant Doctor
+48,night,5,Thắng,Internal Medicine,Assistant Doctor
+12,day,6,Dũng,Internal Medicine,Nurse
+14,day,6,Dũng,Internal Medicine,Nurse
+16,day,6,Dũng,Internal Medicine,Nurse
+25,day,6,Dũng,Internal Medicine,Nurse
+36,day,6,Dũng,Internal Medicine,Nurse
+37,night,6,Dũng,Internal Medicine,Nurse
+51,day,6,Dũng,Internal Medicine,Nurse
+3,night,7,Tơ,Internal Medicine,Nurse
+14,night,7,Tơ,Internal Medicine,Nurse
+27,day,7,Tơ,Internal Medicine,Nurse
+29,night,7,Tơ,Internal Medicine,Nurse
+31,day,7,Tơ,Internal Medicine,Nurse
+40,day,7,Tơ,Internal Medicine,Nurse
+56,day,7,Tơ,Internal Medicine,Nurse
+59,day,7,Tơ,Internal Medicine,Nurse
+24,day,8,Tiến,Internal Medicine,Nurse
+33,night,8,Tiến,Internal Medicine,Nurse
+35,night,8,Tiến,Internal Medicine,Nurse
+43,night,8,Tiến,Internal Medicine,Nurse
+52,night,8,Tiến,Internal Medicine,Nurse
+57,night,8,Tiến,Internal Medicine,Nurse
+11,night,9,Dương,Internal Medicine,Nurse
+21,night,9,Dương,Internal Medicine,Nurse
+24,night,9,Dương,Internal Medicine,Nurse
+28,night,9,Dương,Internal Medicine,Nurse
+34,night,9,Dương,Internal Medicine,Nurse
+45,day,9,Dương,Internal Medicine,Nurse
+19,night,10,Huệ,Internal Medicine,Nurse
+23,night,10,Huệ,Internal Medicine,Nurse
+29,day,10,Huệ,Internal Medicine,Nurse
+49,day,10,Huệ,Internal Medicine,Nurse
+54,night,10,Huệ,Internal Medicine,Nurse
+58,day,10,Huệ,Internal Medicine,Nurse
+60,night,10,Huệ,Internal Medicine,Nurse
+9,night,11,Tuyến,Internal Medicine,Nurse
+17,day,11,Tuyến,Internal Medicine,Nurse
+19,day,11,Tuyến,Internal Medicine,Nurse
+30,night,11,Tuyến,Internal Medicine,Nurse
+42,day,11,Tuyến,Internal Medicine,Nurse
+44,day,11,Tuyến,Internal Medicine,Nurse
+45,night,11,Tuyến,Internal Medicine,Nurse
+55,day,11,Tuyến,Internal Medicine,Nurse
+3,day,12,Huyền,Internal Medicine,Nurse
+31,night,12,Huyền,Internal Medicine,Nurse
+32,night,12,Huyền,Internal Medicine,Nurse
+39,day,12,Huyền,Internal Medicine,Nurse
+52,day,12,Huyền,Internal Medicine,Nurse
+53,day,12,Huyền,Internal Medicine,Nurse
+20,day,13,An,Internal Medicine,Nurse
+22,night,13,An,Internal Medicine,Nurse
+26,day,13,An,Internal Medicine,Nurse
+34,day,13,An,Internal Medicine,Nurse
+37,day,13,An,Internal Medicine,Nurse
+54,day,13,An,Internal Medicine,Nurse
+59,night,13,An,Internal Medicine,Nurse
+2,night,14,Linh,Internal Medicine,Nurse
+11,day,14,Linh,Internal Medicine,Nurse
+12,day,14,Linh,Internal Medicine,Nurse
+40,night,14,Linh,Internal Medicine,Nurse
+46,day,14,Linh,Internal Medicine,Nurse
+57,day,14,Linh,Internal Medicine,Nurse
+60,day,14,Linh,Internal Medicine,Nurse
+14,day,15,Thương,Surgery,Main Doctor
+16,night,15,Thương,Surgery,Main Doctor
+24,night,15,Thương,Surgery,Main Doctor
+45,day,15,Thương,Surgery,Main Doctor
+1,day,16,Tuấn,Surgery,Main Doctor
+11,night,16,Tuấn,Surgery,Main Doctor
+17,day,16,Tuấn,Surgery,Main Doctor
+21,day,16,Tuấn,Surgery,Main Doctor
+22,night,16,Tuấn,Surgery,Main Doctor
+31,night,16,Tuấn,Surgery,Main Doctor
+38,day,16,Tuấn,Surgery,Main Doctor
+51,day,16,Tuấn,Surgery,Main Doctor
+20,day,17,Thanh Hà,Surgery,Main Doctor
+21,night,17,Thanh Hà,Surgery,Main Doctor
+37,day,17,Thanh Hà,Surgery,Main Doctor
+48,night,17,Thanh Hà,Surgery,Main Doctor
+4,night,18,Ngân Hà,Surgery,Main Doctor
+14,night,18,Ngân Hà,Surgery,Main Doctor
+23,day,18,Ngân Hà,Surgery,Main Doctor
+34,day,18,Ngân Hà,Surgery,Main Doctor
+53,day,18,Ngân Hà,Surgery,Main Doctor
+58,day,18,Ngân Hà,Surgery,Main Doctor
+5,night,19,Linh,Surgery,Main Doctor
+12,night,19,Linh,Surgery,Main Doctor
+24,day,19,Linh,Surgery,Main Doctor
+42,night,19,Linh,Surgery,Main Doctor
+47,night,19,Linh,Surgery,Main Doctor
+49,day,19,Linh,Surgery,Main Doctor
+60,day,19,Linh,Surgery,Main Doctor
+3,night,20,Trang,Surgery,Main Doctor
+31,day,20,Trang,Surgery,Main Doctor
+35,night,20,Trang,Surgery,Main Doctor
+37,night,20,Trang,Surgery,Main Doctor
+40,day,20,Trang,Surgery,Main Doctor
+41,day,20,Trang,Surgery,Main Doctor
+48,day,20,Trang,Surgery,Main Doctor
+18,day,21,Thuận,Surgery,Assistant Doctor
+23,night,21,Thuận,Surgery,Assistant Doctor
+38,night,21,Thuận,Surgery,Assistant Doctor
+45,night,21,Thuận,Surgery,Assistant Doctor
+50,night,21,Thuận,Surgery,Assistant Doctor
+54,night,21,Thuận,Surgery,Assistant Doctor
+56,night,21,Thuận,Surgery,Assistant Doctor
+5,day,22,Giang,Surgery,Assistant Doctor
+27,day,22,Giang,Surgery,Assistant Doctor
+29,night,22,Giang,Surgery,Assistant Doctor
+43,night,22,Giang,Surgery,Assistant Doctor
+46,night,22,Giang,Surgery,Assistant Doctor
+50,day,22,Giang,Surgery,Assistant Doctor
+52,night,22,Giang,Surgery,Assistant Doctor
+53,night,22,Giang,Surgery,Assistant Doctor
+4,day,23,Gấm,Surgery,Assistant Doctor
+6,day,23,Gấm,Surgery,Assistant Doctor
+9,night,23,Gấm,Surgery,Assistant Doctor
+16,night,23,Gấm,Surgery,Assistant Doctor
+42,day,23,Gấm,Surgery,Assistant Doctor
+44,night,23,Gấm,Surgery,Assistant Doctor
+46,day,23,Gấm,Surgery,Assistant Doctor
+47,day,23,Gấm,Surgery,Assistant Doctor
+2,day,24,Phượng,Surgery,Assistant Doctor
+8,night,24,Phượng,Surgery,Assistant Doctor
+30,night,24,Phượng,Surgery,Assistant Doctor
+32,night,24,Phượng,Surgery,Assistant Doctor
+36,night,24,Phượng,Surgery,Assistant Doctor
+40,night,24,Phượng,Surgery,Assistant Doctor
+44,day,24,Phượng,Surgery,Assistant Doctor
+61,night,24,Phượng,Surgery,Assistant Doctor
+15,day,25,Công,Surgery,Nurse
+18,night,25,Công,Surgery,Nurse
+56,day,25,Công,Surgery,Nurse
+58,night,25,Công,Surgery,Nurse
+16,day,26,Anh,Surgery,Nurse
+32,day,26,Anh,Surgery,Nurse
+43,day,26,Anh,Surgery,Nurse
+53,day,26,Anh,Surgery,Nurse
+8,day,27,Hoài,Surgery,Nurse
+27,night,27,Hoài,Surgery,Nurse
+40,day,27,Hoài,Surgery,Nurse
+44,night,27,Hoài,Surgery,Nurse
+1,day,28,Huệ,Surgery,Nurse
+6,day,28,Huệ,Surgery,Nurse
+9,day,28,Huệ,Surgery,Nurse
+20,night,28,Huệ,Surgery,Nurse
+22,day,28,Huệ,Surgery,Nurse
+25,night,28,Huệ,Surgery,Nurse
+30,day,28,Huệ,Surgery,Nurse
+56,night,28,Huệ,Surgery,Nurse
+1,night,29,Thông,Surgery,Nurse
+6,night,29,Thông,Surgery,Nurse
+7,night,29,Thông,Surgery,Nurse
+10,day,29,Thông,Surgery,Nurse
+23,day,29,Thông,Surgery,Nurse
+41,night,29,Thông,Surgery,Nurse
+13,night,30,Thu,Surgery,Nurse
+19,night,30,Thu,Surgery,Nurse
+26,day,30,Thu,Surgery,Nurse
+54,night,30,Thu,Surgery,Nurse
+8,night,31,Yên,Surgery,Nurse
+10,night,31,Yên,Surgery,Nurse
+29,night,31,Yên,Surgery,Nurse
+39,night,31,Yên,Surgery,Nurse
+36,day,32,Văn Đức,Surgery,Nurse
+38,day,32,Văn Đức,Surgery,Nurse
+55,night,32,Văn Đức,Surgery,Nurse
+60,night,32,Văn Đức,Surgery,Nurse
+7,day,33,Nam,Surgery,Nurse
+11,day,33,Nam,Surgery,Nurse
+49,night,33,Nam,Surgery,Nurse
+59,day,33,Nam,Surgery,Nurse
+13,day,34,Tú,Surgery,Nurse
+14,day,34,Tú,Surgery,Nurse
+19,day,34,Tú,Surgery,Nurse
+38,night,34,Tú,Surgery,Nurse
+6,night,35,Chí Đức,Surgery,Nurse
+22,day,35,Chí Đức,Surgery,Nurse
+36,night,35,Chí Đức,Surgery,Nurse
+48,night,35,Chí Đức,Surgery,Nurse
+16,day,36,Quân,Emergency,Main Doctor
+33,night,36,Quân,Emergency,Main Doctor
+38,night,36,Quân,Emergency,Main Doctor
+43,day,36,Quân,Emergency,Main Doctor
+55,night,36,Quân,Emergency,Main Doctor
+57,day,36,Quân,Emergency,Main Doctor
+61,day,36,Quân,Emergency,Main Doctor
+8,night,37,Long,Emergency,Main Doctor
+19,day,37,Long,Emergency,Main Doctor
+20,night,37,Long,Emergency,Main Doctor
+27,night,37,Long,Emergency,Main Doctor
+44,day,37,Long,Emergency,Main Doctor
+46,night,37,Long,Emergency,Main Doctor
+53,night,37,Long,Emergency,Main Doctor
+60,night,37,Long,Emergency,Main Doctor
+7,day,38,Bắc,Emergency,Main Doctor
+18,day,38,Bắc,Emergency,Main Doctor
+19,night,38,Bắc,Emergency,Main Doctor
+25,day,38,Bắc,Emergency,Main Doctor
+28,night,38,Bắc,Emergency,Main Doctor
+30,night,38,Bắc,Emergency,Main Doctor
+41,night,38,Bắc,Emergency,Main Doctor
+46,day,38,Bắc,Emergency,Main Doctor
+1,night,39,Thủy,Emergency,Main Doctor
+5,day,39,Thủy,Emergency,Main Doctor
+9,day,39,Thủy,Emergency,Main Doctor
+10,day,39,Thủy,Emergency,Main Doctor
+36,night,39,Thủy,Emergency,Main Doctor
+39,night,39,Thủy,Emergency,Main Doctor
+47,day,39,Thủy,Emergency,Main Doctor
+49,night,39,Thủy,Emergency,Main Doctor
+29,day,40,Tâm,Emergency,Main Doctor
+44,night,40,Tâm,Emergency,Main Doctor
+55,day,40,Tâm,Emergency,Main Doctor
+57,night,40,Tâm,Emergency,Main Doctor
+6,night,41,Xuân,Emergency,Main Doctor
+8,day,41,Xuân,Emergency,Main Doctor
+12,day,41,Xuân,Emergency,Main Doctor
+42,day,41,Xuân,Emergency,Main Doctor
+3,day,42,Hùng,Emergency,Assistant Doctor
+4,night,42,Hùng,Emergency,Assistant Doctor
+17,day,42,Hùng,Emergency,Assistant Doctor
+24,night,42,Hùng,Emergency,Assistant Doctor
+35,night,42,Hùng,Emergency,Assistant Doctor
+7,day,43,Dũng,Emergency,Assistant Doctor
+18,night,43,Dũng,Emergency,Assistant Doctor
+22,night,43,Dũng,Emergency,Assistant Doctor
+34,night,43,Dũng,Emergency,Assistant Doctor
+37,day,43,Dũng,Emergency,Assistant Doctor
+41,day,43,Dũng,Emergency,Assistant Doctor
+58,night,43,Dũng,Emergency,Assistant Doctor
+34,day,44,Vân Anh,Emergency,Assistant Doctor
+36,day,44,Vân Anh,Emergency,Assistant Doctor
+45,day,44,Vân Anh,Emergency,Assistant Doctor
+48,day,44,Vân Anh,Emergency,Assistant Doctor
+49,night,44,Vân Anh,Emergency,Assistant Doctor
+56,day,44,Vân Anh,Emergency,Assistant Doctor
+59,night,44,Vân Anh,Emergency,Assistant Doctor
+2,night,45,Út,Emergency,Assistant Doctor
+3,night,45,Út,Emergency,Assistant Doctor
+5,night,45,Út,Emergency,Assistant Doctor
+21,night,45,Út,Emergency,Assistant Doctor
+33,night,45,Út,Emergency,Assistant Doctor
+37,night,45,Út,Emergency,Assistant Doctor
+1,day,46,Minh,Emergency,Nurse
+11,night,46,Minh,Emergency,Nurse
+15,day,46,Minh,Emergency,Nurse
+18,day,46,Minh,Emergency,Nurse
+1,night,47,Dung,Emergency,Nurse
+6,day,47,Dung,Emergency,Nurse
+8,day,47,Dung,Emergency,Nurse
+9,night,47,Dung,Emergency,Nurse
+59,night,47,Dung,Emergency,Nurse
+32,day,48,Lương,Emergency,Nurse
+33,day,48,Lương,Emergency,Nurse
+50,night,48,Lương,Emergency,Nurse
+56,night,48,Lương,Emergency,Nurse
+61,night,48,Lương,Emergency,Nurse
+3,night,49,Oanh,Emergency,Nurse
+13,night,49,Oanh,Emergency,Nurse
+14,night,49,Oanh,Emergency,Nurse
+35,day,49,Oanh,Emergency,Nurse
+39,day,49,Oanh,Emergency,Nurse
+55,night,49,Oanh,Emergency,Nurse
+13,day,50,Len,Emergency,Nurse
+17,night,50,Len,Emergency,Nurse
+41,day,50,Len,Emergency,Nurse
+46,night,50,Len,Emergency,Nurse
+50,night,50,Len,Emergency,Nurse
+7,night,51,Quỳnh,Emergency,Nurse
+23,day,51,Quỳnh,Emergency,Nurse
+26,night,51,Quỳnh,Emergency,Nurse
+30,day,51,Quỳnh,Emergency,Nurse
+4,day,52,Ngọc,Emergency,Nurse
+10,night,52,Ngọc,Emergency,Nurse
+20,day,52,Ngọc,Emergency,Nurse
+25,night,52,Ngọc,Emergency,Nurse
+17,night,53,Khánh Linh,Emergency,Nurse
+28,day,53,Khánh Linh,Emergency,Nurse
+43,day,53,Khánh Linh,Emergency,Nurse
+58,day,53,Khánh Linh,Emergency,Nurse
+2,day,54,Sang,Emergency,Nurse
+24,night,54,Sang,Emergency,Nurse
+32,night,54,Sang,Emergency,Nurse
+37,day,54,Sang,Emergency,Nurse
+52,day,54,Sang,Emergency,Nurse
+54,day,54,Sang,Emergency,Nurse
+60,day,54,Sang,Emergency,Nurse
+61,day,54,Sang,Emergency,Nurse
+5,day,55,Long,Emergency,Nurse
+9,day,55,Long,Emergency,Nurse
+21,day,55,Long,Emergency,Nurse
+47,night,55,Long,Emergency,Nurse
+12,night,56,Phi,Emergency,Nurse
+15,night,56,Phi,Emergency,Nurse
+41,night,56,Phi,Emergency,Nurse
+50,day,56,Phi,Emergency,Nurse
+12,night,57,Thảo,Emergency,Nurse
+16,night,57,Thảo,Emergency,Nurse
+42,night,57,Thảo,Emergency,Nurse
+47,day,57,Thảo,Emergency,Nurse
+31,night,58,Chung,Emergency,Nurse
+33,day,58,Chung,Emergency,Nurse
+51,night,58,Chung,Emergency,Nurse
+52,night,58,Chung,Emergency,Nurse
+55,day,58,Chung,Emergency,Nurse
+61,night,58,Chung,Emergency,Nurse
+18,night,59,Điệp,Clinical,Main Doctor
+26,day,59,Điệp,Clinical,Main Doctor
+36,day,59,Điệp,Clinical,Main Doctor
+52,day,59,Điệp,Clinical,Main Doctor
+54,night,59,Điệp,Clinical,Main Doctor
+59,night,59,Điệp,Clinical,Main Doctor
+61,night,59,Điệp,Clinical,Main Doctor
+9,night,60,Giang,Clinical,Main Doctor
+10,night,60,Giang,Clinical,Main Doctor
+15,night,60,Giang,Clinical,Main Doctor
+32,night,60,Giang,Clinical,Main Doctor
+45,night,60,Giang,Clinical,Main Doctor
+52,night,60,Giang,Clinical,Main Doctor
+11,day,61,Bá Tuấn,Clinical,Main Doctor
+15,day,61,Bá Tuấn,Clinical,Main Doctor
+17,night,61,Bá Tuấn,Clinical,Main Doctor
+23,night,61,Bá Tuấn,Clinical,Main Doctor
+6,day,62,Bằng,Clinical,Main Doctor
+22,day,62,Bằng,Clinical,Main Doctor
+26,night,62,Bằng,Clinical,Main Doctor
+29,night,62,Bằng,Clinical,Main Doctor
+33,day,62,Bằng,Clinical,Main Doctor
+34,night,62,Bằng,Clinical,Main Doctor
+43,night,62,Bằng,Clinical,Main Doctor
+56,day,62,Bằng,Clinical,Main Doctor
+1,day,63,Hà,Clinical,Assistant Doctor
+25,day,63,Hà,Clinical,Assistant Doctor
+28,night,63,Hà,Clinical,Assistant Doctor
+31,day,63,Hà,Clinical,Assistant Doctor
+53,day,63,Hà,Clinical,Assistant Doctor
+59,day,63,Hà,Clinical,Assistant Doctor
+8,day,64,Hương,Clinical,Assistant Doctor
+14,night,64,Hương,Clinical,Assistant Doctor
+20,day,64,Hương,Clinical,Assistant Doctor
+24,day,64,Hương,Clinical,Assistant Doctor
+27,night,64,Hương,Clinical,Assistant Doctor
+29,day,64,Hương,Clinical,Assistant Doctor
+55,day,64,Hương,Clinical,Assistant Doctor
+58,day,64,Hương,Clinical,Assistant Doctor
+1,night,65,Dung,Clinical,Assistant Doctor
+9,day,65,Dung,Clinical,Assistant Doctor
+13,night,65,Dung,Clinical,Assistant Doctor
+25,night,65,Dung,Clinical,Assistant Doctor
+30,day,65,Dung,Clinical,Assistant Doctor
+31,night,65,Dung,Clinical,Assistant Doctor
+35,day,65,Dung,Clinical,Assistant Doctor
+51,night,65,Dung,Clinical,Assistant Doctor
+11,night,66,Linh,Clinical,Assistant Doctor
+12,night,66,Linh,Clinical,Assistant Doctor
+14,day,66,Linh,Clinical,Assistant Doctor
+23,day,66,Linh,Clinical,Assistant Doctor
+40,day,66,Linh,Clinical,Assistant Doctor
+43,day,66,Linh,Clinical,Assistant Doctor
+49,day,66,Linh,Clinical,Assistant Doctor
+51,day,66,Linh,Clinical,Assistant Doctor
+6,night,67,Tâm,Clinical,Assistant Doctor
+7,night,67,Tâm,Clinical,Assistant Doctor
+12,day,67,Tâm,Clinical,Assistant Doctor
+28,day,67,Tâm,Clinical,Assistant Doctor
+32,day,67,Tâm,Clinical,Assistant Doctor
+39,day,67,Tâm,Clinical,Assistant Doctor
+57,day,67,Tâm,Clinical,Assistant Doctor
+60,day,67,Tâm,Clinical,Assistant Doctor
+13,day,68,Minh Phương,Clinical,Assistant Doctor
+16,day,68,Minh Phương,Clinical,Assistant Doctor
+21,day,68,Minh Phương,Clinical,Assistant Doctor
+52,day,68,Minh Phương,Clinical,Assistant Doctor
+54,day,68,Minh Phương,Clinical,Assistant Doctor
+55,night,68,Minh Phương,Clinical,Assistant Doctor
+19,day,69,Xuân,Clinical,Assistant Doctor
+26,day,69,Xuân,Clinical,Assistant Doctor
+41,night,69,Xuân,Clinical,Assistant Doctor
+42,night,69,Xuân,Clinical,Assistant Doctor
+47,night,69,Xuân,Clinical,Assistant Doctor
+57,night,69,Xuân,Clinical,Assistant Doctor
+60,night,69,Xuân,Clinical,Assistant Doctor
+2,day,70,Hương,Clinical,Nurse
+18,night,70,Hương,Clinical,Nurse
+21,night,70,Hương,Clinical,Nurse
+29,day,70,Hương,Clinical,Nurse
+35,night,70,Hương,Clinical,Nurse
+49,night,70,Hương,Clinical,Nurse
+61,day,70,Hương,Clinical,Nurse
+5,night,71,Chi,Clinical,Nurse
+7,day,71,Chi,Clinical,Nurse
+10,day,71,Chi,Clinical,Nurse
+42,night,71,Chi,Clinical,Nurse
+45,day,71,Chi,Clinical,Nurse
+50,day,71,Chi,Clinical,Nurse
+28,night,72,Kim Anh,Clinical,Nurse
+33,night,72,Kim Anh,Clinical,Nurse
+34,night,72,Kim Anh,Clinical,Nurse
+53,night,72,Kim Anh,Clinical,Nurse
+2,night,73,Ngân,Clinical,Nurse
+4,night,73,Ngân,Clinical,Nurse
+8,night,73,Ngân,Clinical,Nurse
+34,day,73,Ngân,Clinical,Nurse
+38,day,73,Ngân,Clinical,Nurse
+47,night,73,Ngân,Clinical,Nurse
+3,day,74,Đông,Clinical,Nurse
+4,day,74,Đông,Clinical,Nurse
+24,day,74,Đông,Clinical,Nurse
+27,day,74,Đông,Clinical,Nurse
+30,night,74,Đông,Clinical,Nurse
+41,day,74,Đông,Clinical,Nurse
+44,day,74,Đông,Clinical,Nurse
+45,night,74,Đông,Clinical,Nurse
+21,day,75,Thu,Clinical,Nurse
+22,night,75,Thu,Clinical,Nurse
+26,night,75,Thu,Clinical,Nurse
+35,day,75,Thu,Clinical,Nurse
+38,night,75,Thu,Clinical,Nurse
+39,night,75,Thu,Clinical,Nurse
+51,night,75,Thu,Clinical,Nurse
+4,night,76,Hưng,Clinical,Nurse
+31,day,76,Hưng,Clinical,Nurse
+48,night,76,Hưng,Clinical,Nurse
+57,night,76,Hưng,Clinical,Nurse
+58,night,76,Hưng,Clinical,Nurse
+20,night,77,Vượng,Clinical,Nurse
+23,night,77,Vượng,Clinical,Nurse
+36,night,77,Vượng,Clinical,Nurse
+37,night,77,Vượng,Clinical,Nurse
+40,night,77,Vượng,Clinical,Nurse
+43,night,77,Vượng,Clinical,Nurse
+47,day,77,Vượng,Clinical,Nurse
+5,day,78,Thu Hằng,Clinical,Nurse
+17,day,78,Thu Hằng,Clinical,Nurse
+18,day,78,Thu Hằng,Clinical,Nurse
+28,day,78,Thu Hằng,Clinical,Nurse
+46,night,78,Thu Hằng,Clinical,Nurse
+51,day,78,Thu Hằng,Clinical,Nurse
+53,night,78,Thu Hằng,Clinical,Nurse
+25,day,79,Huyền,Clinical,Nurse
+46,day,79,Huyền,Clinical,Nurse
+48,day,79,Huyền,Clinical,Nurse
+49,day,79,Huyền,Clinical,Nurse
+5,night,80,Thành,Clinical,Nurse
+15,night,80,Thành,Clinical,Nurse
+16,night,80,Thành,Clinical,Nurse
+27,night,80,Thành,Clinical,Nurse
+42,day,80,Thành,Clinical,Nurse
+44,night,80,Thành,Clinical,Nurse
+48,day,80,Thành,Clinical,Nurse
+57,day,80,Thành,Clinical,Nurse
